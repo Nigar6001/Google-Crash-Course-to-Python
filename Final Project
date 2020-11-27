@@ -1,3 +1,6 @@
+The code was written on Jupyter Notebook over a provided outline and the required file to upload for the code to work thoroughly, one should either use the file 
+received from Google while getting the course or one should be created by the user to obtain a wordcloud.  
+
 !pip install wordcloud
 !pip install fileupload
 !pip install ipywidgets
